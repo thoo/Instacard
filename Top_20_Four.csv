@@ -1,0 +1,21 @@
+,Itemsets,Freq
+1940,"['Bag of Organic Bananas', 'Organic Hass Avocado', 'Organic Strawberries', 'Organic Raspberries']",228
+3250,"['Bag of Organic Bananas', 'Organic Hass Avocado', 'Organic Strawberries', 'Organic Baby Spinach']",163
+3797,"['Limes', 'Large Lemon', 'Banana', 'Organic Avocado']",146
+4072,"['Bag of Organic Bananas', 'Organic Hass Avocado', 'Organic Strawberries', 'Organic Cucumber']",140
+4334,"['Large Lemon', 'Banana', 'Organic Avocado', 'Organic Baby Spinach']",134
+4857,"['Bag of Organic Bananas', 'Organic Strawberries', 'Organic Raspberries', 'Organic Baby Spinach']",124
+4866,"['Bag of Organic Bananas', 'Organic Strawberries', 'Organic Cucumber', 'Organic Baby Spinach']",124
+5190,"['Bag of Organic Bananas', 'Organic Hass Avocado', 'Organic Strawberries', 'Organic Lemon']",119
+5670,"['Bag of Organic Bananas', 'Organic Hass Avocado', 'Organic Cucumber', 'Organic Baby Spinach']",112
+5763,"['Bag of Organic Bananas', 'Organic Strawberries', 'Organic Blueberries', 'Organic Raspberries']",111
+5775,"['Bag of Organic Bananas', 'Organic Strawberries', 'Organic Raspberries', 'Organic Cucumber']",111
+6200,"['Limes', 'Large Lemon', 'Organic Avocado', 'Organic Baby Spinach']",105
+6393,"['Limes', 'Large Lemon', 'Banana', 'Organic Baby Spinach']",103
+6477,"['Bag of Organic Bananas', 'Organic Hass Avocado', 'Organic Raspberries', 'Organic Baby Spinach']",102
+6672,"['Bag of Organic Bananas', 'Organic Hass Avocado', 'Organic Lemon', 'Organic Raspberries']",100
+6892,"['Bag of Organic Bananas', 'Organic Hass Avocado', 'Organic Lemon', 'Organic Baby Spinach']",97
+7338,"['Bag of Organic Bananas', 'Organic Hass Avocado', 'Organic Strawberries', 'Organic Zucchini']",93
+7427,"['Bag of Organic Bananas', 'Organic Hass Avocado', 'Organic Raspberries', 'Organic Cucumber']",92
+7456,"['Bag of Organic Bananas', 'Organic Strawberries', 'Organic Lemon', 'Organic Raspberries']",92
+7610,"['Bag of Organic Bananas', 'Organic Hass Avocado', 'Organic Garlic', 'Organic Yellow Onion']",90

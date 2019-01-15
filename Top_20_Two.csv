@@ -1,0 +1,21 @@
+,Itemsets,Freq
+29,"['Bag of Organic Bananas', 'Organic Strawberries']",3074
+47,"['Bag of Organic Bananas', 'Organic Hass Avocado']",2420
+57,"['Bag of Organic Bananas', 'Organic Baby Spinach']",2236
+60,"['Banana', 'Organic Avocado']",2216
+62,"['Organic Strawberries', 'Banana']",2174
+64,"['Large Lemon', 'Banana']",2158
+68,"['Banana', 'Organic Baby Spinach']",2000
+73,"['Banana', 'Strawberries']",1948
+83,"['Bag of Organic Bananas', 'Organic Raspberries']",1780
+88,"['Organic Strawberries', 'Organic Raspberries']",1670
+90,"['Organic Strawberries', 'Organic Baby Spinach']",1639
+92,"['Limes', 'Large Lemon']",1595
+95,"['Organic Hass Avocado', 'Organic Strawberries']",1539
+109,"['Organic Avocado', 'Organic Baby Spinach']",1402
+115,"['Large Lemon', 'Organic Avocado']",1349
+118,"['Limes', 'Banana']",1331
+123,"['Organic Strawberries', 'Organic Blueberries']",1269
+124,"['Bag of Organic Bananas', 'Organic Cucumber']",1268
+126,"['Organic Hass Avocado', 'Organic Baby Spinach']",1252
+129,"['Large Lemon', 'Organic Baby Spinach']",1238
